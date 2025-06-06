@@ -1,7 +1,11 @@
 Bitcoin Price Prediction Model
 A machine learning project that predicts Bitcoin prices using historical data with remarkable accuracy.
+
+
 Overview
 This project implements a time series prediction model for Bitcoin prices, achieving near-perfect accuracy on test data from 2018-2021. The model successfully predicted Bitcoin's dramatic price movements, including the crash of 2018 and the bull run to $60,000+ in 2021.
+
+
 Features
 
 High Accuracy: Predictions closely match actual Bitcoin prices
@@ -48,6 +52,8 @@ Root Mean Square Error (RMSE)
 Visual comparison of predicted vs actual prices
 
 Results Analysis
+
+
 The model demonstrates exceptional performance:
 
 Accuracy: Near-perfect overlap between predictions and actual prices
